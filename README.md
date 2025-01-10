@@ -30,16 +30,6 @@
 
 ---
 
-## 🛠️ Skills
-Here’s what I bring to the table:
-
-### Backend:
-
-### Frontend:
-### Databases:
-
----
-
 ## 🎯 Goals
 - **Short-term**: Master React Native and deploy my first app.  
 - **Long-term**: Dive into AI and machine learning to create impactful tools.
