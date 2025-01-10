@@ -14,7 +14,11 @@
 - 🤖 Super curious about **AI** and finding ways to integrate it into everyday life!  
 - 🎯 Always exploring new tools and technologies to level up my game.
 
-![Coding Gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Gif" width="30%" />
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Developer Gif" width="30%" />
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Programming Gif" width="30%" />
+</div>
 
 ---
 
