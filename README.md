@@ -34,13 +34,9 @@
 Here’s what I bring to the table:
 
 ### Backend:
-![Express Gif](https://media.giphy.com/media/l0HU20BZ6LbSEITza/giphy.gif)
 
 ### Frontend:
-![HTML Gif](https://media.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif)
-
 ### Databases:
-![SQL Gif](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ---
 
@@ -63,7 +59,7 @@ Here’s what I bring to the table:
 ## 💬 Fun Fact
 When I’m not coding, I’m probably exploring new tech, watching cartoons, or watching anime! 🎮✨
 
-![Fun Gif](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
 
 ---
 
