@@ -26,15 +26,11 @@
 - 🌟 Learning **React Native** to build cool apps!  
 - 🤩 Enhancing my understanding of **AI** to develop smarter solutions.
 
-![React Native Gif](https://media.giphy.com/media/XbxZ41fWLeRECPsGIJ/giphy.gif)
-
 ---
 
 ## 🎯 Goals
 - **Short-term**: Master React Native and deploy my first app.  
 - **Long-term**: Dive into AI and machine learning to create impactful tools.
-
-![Learning Gif](https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif)
 
 ---
 
@@ -42,7 +38,6 @@
 - 💼 LinkedIn: [Ronella's LinkedIn](www.linkedin.com/in/ronella-dias-2757112b3)  
 - 🌐 Portfolio: [Coming Soon!](#)
 
-![Connect Gif](https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif)
 
 ---
 
@@ -55,5 +50,5 @@ When I’m not coding, I’m probably exploring new tech, watching cartoons, or 
 
 ⭐️ **If you like what you see, drop a ⭐️ or contribute to my projects!**  
 
-![Star Gif](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+
 
