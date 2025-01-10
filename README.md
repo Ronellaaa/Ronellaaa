@@ -49,7 +49,7 @@ When I’m not coding, I’m probably exploring new tech, watching cartoons, or 
 ---
 
 ⭐️ **If you like what you see, drop a ⭐️ or contribute to my projects!**  
-<img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" alt="support Gif" width="50%" align="center" />
+<img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" alt="support Gif" width="50%"/>
 
 
 
